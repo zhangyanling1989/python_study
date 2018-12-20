@@ -39,3 +39,5 @@ print(friends[1:])
 print(friends[1:3])
 friends[1]="mike"
 print(friends[1:4])
+
+
